@@ -17,16 +17,17 @@ I am particularly interested in Governance, Risk, and Compliance (GRC), security
 
 ## Featured Cybersecurity Projects
 
-### 1. GRC Risk Assessment & NIST Control Mapping
-A practical project demonstrating cybersecurity risk identification, risk evaluation, security control mapping, and remediation recommendations.
+## Featured Cybersecurity Projects
 
-### 2. Vulnerability Assessment & Remediation
-A hands-on vulnerability management project covering vulnerability identification, risk prioritization, and remediation planning.
+### 1. [GRC Risk Assessment & NIST Control Mapping](01-GRC-Risk-Assessment/)
+Vulnerability assessment, risk scoring, NIST SP 800-53 control mapping, and remediation recommendations developed through a UMGC cybersecurity lab.
 
-### 3. Network Intrusion Detection Using Suricata
-A security monitoring project demonstrating network traffic analysis, intrusion detection, and security alert investigation.
+### 2. [Incident Response, Digital Forensics & Compliance](02-Incident-Response-Compliance/)
+An academic banking-sector case study covering incident response planning, evidence preservation, forensic tool evaluation, and security governance.
 
-*Detailed project documentation will be added to this repository.*
+### 3. [Network Intrusion Detection & Security Monitoring Using Suricata](03-Suricata-Security-Monitoring/)
+A hands-on UMGC lab demonstrating Suricata configuration, network traffic analysis, alert investigation, and security monitoring.
+
 
 ## Education
 
